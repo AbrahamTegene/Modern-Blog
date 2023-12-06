@@ -27,7 +27,7 @@ const SingleBlog = () => {
           <p className='mb-3 text-gray-600'> <FaClock className='inline-flex items-center mr-2'/> {reading_time}</p>
           <p className='text-base text-gray-500 mb-6'>{content}</p>
 
-
+          {/* single blog page paragraph */}
           <div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, dolorum fugit magnam praesentium quia unde numquam, impedit sunt sint nobis cum soluta tenetur totam earum? Molestiae vitae maiores nulla illum!</p> <br />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis ex eum error? Inventore, doloremque corporis molestiae quae adipisci in quas facere aut dolorem, odio unde dolor commodi! Ut, repellendus vero.</p>

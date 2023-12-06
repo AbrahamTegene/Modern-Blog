@@ -103,7 +103,7 @@ const Footer = () => {
                   <p className='mt-4  text-sm text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim cumque impedit quis aliquid, cupiditate dolorem amet, perspiciatis reprehenderit perferendis sunt ducimus facere harum rerum sequi beatae consectetur. Voluptatum, minus voluptatem?</p>
                 </div>
         </div>
-          
+          {/*  ©Copyright session */}
           <div className='flex flex-col justify-between pt-5 pb-10 border-t border-gray-800 sm:flex-row'>
             <p className='text-sm text-gray-500'>©Copyright 2023 | All right resereved.</p>
             <div className='flex items-center mt-4 space-x-4 sm:mt-0'>
