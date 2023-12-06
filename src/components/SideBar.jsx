@@ -25,7 +25,7 @@ const SideBar = () => {
       </div>
     </div>
 
-    {/* popular bbologs */}
+    {/* popular bologs */}
     <div>
         <h3 className='text-2xl font-semibold px-4'>Popular Blogs</h3>
       <div>
