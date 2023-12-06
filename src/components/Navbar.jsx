@@ -20,11 +20,11 @@ const Navbar = () => {
         {path: "/contact", link: "Contact"},
     ]
 
-    //model details
+    //model details open
     const openModel = () => {
         setIsModalOpen(true);
     }
-
+    //model details close
     const closeModele = () => {
         setIsModalOpen (false);
     }
